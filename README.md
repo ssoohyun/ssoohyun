@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SooHyun%20Choi&fontSize=70&fontAlign=70)
 
-#### Hi there! I'm backend developer👋
+### Hi there! I'm backend developer👋
 
 ### Skills
 #### Platform & Language
