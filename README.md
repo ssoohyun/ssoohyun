@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SooHyun%20Choi&fontSize=70&fontAlign=70)
 
 ### Hi there 👋
+I'm backend developer!
 
 <!--
 **ssoohyun/ssoohyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
