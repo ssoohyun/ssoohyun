@@ -5,8 +5,7 @@ I'm backend developer!
 
 ### Skills
 #### Platform & Languages
-<img src="https://img.shields.io/badge/Java-#1E8CBE?style=flat&logo=Java&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 #### Tool
 
 <!--
